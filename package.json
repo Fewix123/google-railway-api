@@ -1,0 +1,20 @@
+{
+  "name": "google-to-railway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fewix123/google-railway-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fewix123/google-railway-api/issues"
+  },
+  "homepage": "https://github.com/Fewix123/google-railway-api#readme",
+  "description": ""
+}
